@@ -25,7 +25,7 @@ This bash script is designed to quickly install commonly used security and penet
 ### Usage
 
 ```bash
-git clone [https://github.com/emirhan701/kali_tools_installer_for_arch.git](https://github.com/emirhan701/kali_tools_installer_for_arch.git)
+git clone https://github.com/emirhan701/kali_tools_installer_for_arch.git
 cd kali_tools_installer_for_arch
 chmod +x kali_tools_installer.sh
 sudo ./kali_tools_installer.sh
@@ -55,7 +55,7 @@ Bu bash script'i, **Arch Linux** sisteminizde yaygın olarak kullanılan güvenl
 ### Kullanım
 
 ```bash
-git clone [https://github.com/emirhan701/kali_tools_installer_for_arch.git](https://github.com/emirhan701/kali_tools_installer_for_arch.git)
+git clone https://github.com/emirhan701/kali_tools_installer_for_arch.git
 cd kali_tools_installer_for_arch
 chmod +x kali_tools_installer.sh
 sudo ./kali_tools_installer.sh
