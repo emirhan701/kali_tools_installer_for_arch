@@ -28,7 +28,7 @@ This bash script is designed to quickly install commonly used security and penet
 git clone https://github.com/emirhan701/kali_tools_installer_for_arch.git
 cd kali_tools_installer_for_arch
 chmod +x kali_tools_installer.sh
-sudo ./kali_tools_installer.sh
+bash kali_tools_installer.sh
 ````
 The script will download and attempt to install the predefined tools in order using `pacman`. Some steps might require confirmation during installation. Please be aware that not all Kali tools may be directly available or fully functional on Arch Linux.
 
@@ -58,6 +58,6 @@ Bu bash script'i, **Arch Linux** sisteminizde yaygın olarak kullanılan güvenl
 git clone https://github.com/emirhan701/kali_tools_installer_for_arch.git
 cd kali_tools_installer_for_arch
 chmod +x kali_tools_installer.sh
-sudo ./kali_tools_installer.sh
+bash ./kali_tools_installer.sh
 ```
 Script, içerisinde tanımlı araçları `pacman` kullanarak sırayla indirip kurmayı deneyecektir. Kurulum sırasında onay isteyen adımlar olabilir. Lütfen tüm Kali araçlarının Arch Linux üzerinde doğrudan kullanılamayabileceğini veya tam olarak işlevsel olmayabileceğini unutmayın.
